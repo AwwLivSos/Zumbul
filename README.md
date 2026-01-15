@@ -36,10 +36,22 @@ Flowey is your peppy, high-energy UI assistant. He’s "the man" for real — gu
 ---
 
 ## 🖼️ App Gallery
-| Interactive UI | Blender Modeling | AR Interaction |
-| :---: | :---: | :---: |
-| ![UI Screenshot](Images/Flowey.png) | ![Blender Model](Images/UspravniCvijet.png) | ![Dragging GIF](Images/Zalijevanje.gif) |
 
+### 🌻 Meet Flowey (Interactive UI)
+![UI Screenshot](Images/Flowey.png)
+*Flowey providing peppy guidance and instructions throughout the app.*
+
+---
+
+### 🎨 Custom Blender Modeling
+![Blender Model](Images/UspravniCvijet.png)
+*The high-fidelity Zumbul model, designed and textured entirely in Blender.*
+
+---
+
+### 💧 AR Interaction & Physics
+![Dragging GIF](Images/Zalijevanje.gif)
+*A look at the dragging mechanic: Moving the watering can to trigger plant growth.*
 ---
 
 ## 📸 Scan Image (Marker)
