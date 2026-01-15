@@ -5,7 +5,7 @@
 ---
 
 ## 📽️ Preview
-![App Hero Image](https://placehold.co/800x400?text=Insert+Main+App+Screenshot+Here)
+![App Hero Image](Images/Glavna.png)
 *Main view of the Zumbul AR environment featuring Flowey the Flower.*
 
 ---
@@ -31,21 +31,21 @@ The project features a high-fidelity **custom 3D model** of a Hyacinth created f
 | **Animated Butterfly** | Tap | Triggers a cinematic video showing the life cycle and growth of the plant. |
 
 ### 🌻 Meet Flowey!
-Flowey is your peppy, high-energy UI assistant. He’s "the shit" for real—guiding you through every step, explaining what to click, and ensuring you never get lost in the garden.
+Flowey is your peppy, high-energy UI assistant. He’s "the man" for real — guiding you through every step, explaining what to click, and ensuring you never get lost in the garden.
 
 ---
 
 ## 🖼️ App Gallery
 | Interactive UI | Blender Modeling | AR Interaction |
 | :---: | :---: | :---: |
-| ![UI Screenshot](https://placehold.co/300x600?text=Flowey+UI) | ![Blender Model](https://placehold.co/300x600?text=Blender+Model) | ![Dragging GIF](https://placehold.co/300x600?text=AR+Dragging+Action) |
+| ![UI Screenshot](Images/Flowey.png) | ![Blender Model](Images/UspravniCvijet.png) | ![Dragging GIF](Images/Zalijevanje.gif) |
 
 ---
 
 ## 📸 Scan Image (Marker)
 To use the app, point your camera at the tracking image below. You can print this out or display it on another device.
 
-![AR Tracking Marker](https://placehold.co/400x400?text=PLACE+YOUR+SCAN+IMAGE+HERE)
+![AR Tracking Marker](Images/imageRecognition2.PNG)
 
 ---
 
@@ -66,7 +66,7 @@ To use the app, point your camera at the tracking image below. You can print thi
 
 ## 👤 Contact
 **Project Creator**
-* GitHub: [@YourUsername](https://github.com/YourUsername)
-* Email: your.email@example.com
+* GitHub: [@AwwLivSos](https://github.com/AwwLivSos)
+* Email: dalibegovi2@etf.unsa.ba
 
 *"Keep it peppy and keep growing!"*
