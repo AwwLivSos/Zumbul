@@ -62,7 +62,7 @@ To use the app, point your camera at the tracking image below. You can print thi
 ---
 
 ## 🚀 How to Install
-1.  Go to the **[Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)** tab on GitHub.
+1.  Go to the **[Releases](https://github.com/AwwLivSos/Zumbul/releases)** tab on GitHub.
 2.  Download the latest `.apk` file for Android.
 3.  Install the app on your AR-compatible device and start growing!
 
