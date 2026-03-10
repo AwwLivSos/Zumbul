@@ -1,4 +1,4 @@
-# 🌸 Zumbul (Hyacinth) AR
+#  Zumbul (Hyacinth) AR
 
 **An upbeat, edutainment AR experience exploring the beauty and life of the Hyacinth flower.**
 
@@ -11,9 +11,9 @@
 ---
 
 ## ✨ About the Project
-**Zumbul** (the Bosnian/Turkish word for Hyacinth) is an immersive AR application designed to make learning about botany interactive and fun. 
+**Zumbul** (the Bosnian word for Hyacinth) is an immersive AR application designed to make learning about botany interactive and fun. 
 
-The project features a high-fidelity **custom 3D model** of a Hyacinth created from scratch in **Blender**, integrated into a lush **Unity** environment. Whether you're learning how to care for a plant or watching its life cycle unfold, Zumbul brings the garden to your living room.
+The project features a high-fidelity **custom 3D model** of a Hyacinth created from scratch in **Blender**, integrated into a lush **Unity** environment.
 
 ---
 
@@ -31,7 +31,7 @@ The project features a high-fidelity **custom 3D model** of a Hyacinth created f
 | **Animated Butterfly** | Tap | Triggers a cinematic video showing the life cycle and growth of the plant. |
 
 ### 🌻 Meet Flowey!
-Flowey is your peppy, high-energy UI assistant. He’s "the man" for real — guiding you through every step, explaining what to click, and ensuring you never get lost in the garden.
+Flowey is your peppy, high-energy UI assistant. He’s there for guiding you through every step, explaining what to click, and ensuring you never get lost in the garden.
 
 ---
 
@@ -39,13 +39,13 @@ Flowey is your peppy, high-energy UI assistant. He’s "the man" for real — gu
 
 ### 🌻 Meet Flowey (Interactive UI)
 ![UI Screenshot](Images/Flowey.png)
-*Flowey providing peppy guidance and instructions throughout the app.*
+*Flowey providing guidance and instructions throughout the app.*
 
 ---
 
 ### 🎨 Custom Blender Modeling
 ![Blender Model](Images/UspravniCvijet.png)
-*The high-fidelity Zumbul model, designed and textured entirely in Blender.*
+*The high-fidelity model, designed and textured entirely in Blender.*
 
 ---
 
@@ -64,7 +64,7 @@ To use the app, point your camera at the tracking image below. You can print thi
 ## 🚀 How to Install
 1.  Go to the **[Releases](https://github.com/AwwLivSos/Zumbul/releases)** tab on GitHub.
 2.  Download the latest `.apk` file for Android.
-3.  Install the app on your AR-compatible device and start growing!
+3.  Install the app on your AR-compatible device!
 
 ---
 
@@ -80,5 +80,3 @@ To use the app, point your camera at the tracking image below. You can print thi
 **Project Creator**
 * GitHub: [@AwwLivSos](https://github.com/AwwLivSos)
 * Email: dalibegovi2@etf.unsa.ba
-
-*"Keep it peppy and keep growing!"*
