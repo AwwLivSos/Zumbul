@@ -78,5 +78,5 @@ To use the app, point your camera at the tracking image below. You can print thi
 
 ## 👤 Contact
 **Project Creator**
-* GitHub: [@AwwLivSos](https://github.com/danijalibegovic)
+* GitHub: [@danijalibegovic](https://github.com/danijalibegovic)
 * Email: dalibegovi2@etf.unsa.ba
